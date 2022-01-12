@@ -1,7 +1,7 @@
 #### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/Token-Joiner#terms) - [💡 Features](https://github.com/Dev-Golem/Token-Joiner#Features)
 
 # Description
-add all the tokens to a server
+Adds all your tokens to a server
 
 # Terms
 - [x] You only use it for educational or private purposes.
