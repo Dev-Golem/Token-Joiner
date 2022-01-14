@@ -1,4 +1,4 @@
-import requests, discord, http.client, json
+import requests, discord, http.client, json, re
 from colorama import Fore
 
 http.client._is_legal_header_name = re.compile(rb'[^\s][^:\r\n]*').fullmatch
